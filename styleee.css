@@ -1,0 +1,19 @@
+
+.arabic {
+    directions: rtl;
+    text-align: right;
+    font-size: 30px;
+    font-waight: bold;
+}
+.arabic span:nth-child(1) {
+    color: red;
+}
+.arabic span:nth-child(2) {
+    color: blue;
+}
+.arabic span:nth-child(3) {
+    color: pink;
+}
+.arabic span:nth-child(4) {
+    color: gray;
+}
